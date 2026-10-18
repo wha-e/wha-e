@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/600114326598057986?theme=dark&bg=000000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=zzzzz%20c%20zzzzzz%20c%20zzzz c <3)](https://discord.com/users/600114326598057986)
+[![Discord Presence](https://lanyard.cnrad.dev/api/600114326598057986?theme=dark&bg=000000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=zzzzz%20c%20zzzzzz%20c%20zzzz c)](https://discord.com/users/600114326598057986)
